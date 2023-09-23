@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TaazaNews/static/css/main.31d6cfe0.css",
-    "main.js": "/TaazaNews/static/js/main.8012b0fe.js",
+    "main.js": "/TaazaNews/static/js/main.657ef862.js",
     "static/js/787.4c026eef.chunk.js": "/TaazaNews/static/js/787.4c026eef.chunk.js",
     "static/media/loading.gif": "/TaazaNews/static/media/loading.a5d24e5b250214a43364.gif",
     "index.html": "/TaazaNews/index.html",
-    "main.8012b0fe.js.map": "/TaazaNews/static/js/main.8012b0fe.js.map",
+    "main.657ef862.js.map": "/TaazaNews/static/js/main.657ef862.js.map",
     "787.4c026eef.chunk.js.map": "/TaazaNews/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.8012b0fe.js"
+    "static/js/main.657ef862.js"
   ]
 }
